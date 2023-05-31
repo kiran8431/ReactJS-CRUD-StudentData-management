@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "man2",
+      "collegeName": "jntuacek",
+      "id": 4
+    },
+    {
+      "name": "ravi",
+      "collegeName": "mdrs",
+      "id": 6
+    },
+    {
+      "name": "DemoPerson",
+      "collegeName": "DemoCollege",
+      "id": 7
+    },
+    {
+      "name": "Student1",
+      "collegeName": "Clg1",
+      "id": 8
+    },
+    {
+      "name": "Student3",
+      "collegeName": "clg3",
+      "id": 9
+    },
+    {
+      "name": "Student5",
+      "collegeName": "clg5",
+      "id": 10
+    }
+  ]
+}
